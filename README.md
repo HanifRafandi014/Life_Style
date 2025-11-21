@@ -1,20 +1,16 @@
 # 📔**Life Style**
-Tool : Google Collab, Tableau, Ms.Excel <br>
+Tool : Google Collab, Looker, Ms.Excel, SmartDraw <br>
 Programming Language : Python <br>
 Libraries : <br>
-Visualization : <br>
+Visualization : Looker & Notebook<br>
 Source Dataset : Kaggle <br>
 
 # 📂 Stage 0: Business Understanding
-## Background Project :
-wretwyujk
-
-## Objective :
-1. rwtehrjk
-2. retwyutkejr
+## Tugas :
+Analisis Komprehensif Korelasi Kesehatan dan Kebiasaan Hidup.
 
 ## Goals :
-maneuhejrk
+Mengidentifikasi hubungan timbal balik antara metrik biometrik, kebiasaan nutrisi, dan aktivitas fisik untuk memodelkan status kesehatan dan mengembangkan rekomendasi kesehatan dan kebugaran yang dipersonalisasi.
 <br>
 
 # 📂 Stage 1: Exploratory Data Analysis
