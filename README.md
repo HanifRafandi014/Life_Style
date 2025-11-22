@@ -8,7 +8,7 @@ Source Dataset : Kaggle <br>
 # 📂 Stage 0: Business Understanding
 ## Entity Relationship Diagram :
 <p align="center">
-    <kbd> <img width="200" alt="erd" src="erd life style data.png"> </kbd> <br>
+    <kbd> <img width="200" alt="erd" src="erd life style.png"> </kbd> <br>
     Gambar 1 — ERD Dashboard
 </p>
 
